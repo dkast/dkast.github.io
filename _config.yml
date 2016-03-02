@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://dkast.github.io
+title: Hack n' Roll
+tagline: JS, iOS y otras cosas
+description: My awesome new site
+paginate: 10
