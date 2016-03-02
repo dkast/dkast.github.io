@@ -4,5 +4,5 @@ markdown: kramdown
 url: http://dkast.github.io
 title: Hack n' Roll
 tagline: JS, iOS y otras cosas
-description: My awesome new site
+description: JS, iOS y otras cosas
 paginate: 10
