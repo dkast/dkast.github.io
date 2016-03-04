@@ -268,28 +268,14 @@ a.sidebar-nav-item:focus {
 
 .theme-base-0g .sidebar {
   background-color: #1F0B26;
-  /*background-image: url('https://source.unsplash.com/YtQAhNbqa2o/500x500');
-  background-size: cover;*/
 }
-
-/*.theme-base-0g .sidebar:after {
-  content: ' ';
-  display: block;
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-  opacity: 0.3;
-  background-image: url('https://source.unsplash.com/5Ntkpxqt54Y/500x500');
-  background-size: cover;
-}
-
-.theme-base-0g .sidebar .container {
-  z-index: 2;
-}*/
 
 .theme-base-0g .sidebar-about h1 {
   color: #E40033;
+}
+
+@media (max-width: 768px) {
+  .theme-base-0g canvas {
+    display: none;
+  }
 }
